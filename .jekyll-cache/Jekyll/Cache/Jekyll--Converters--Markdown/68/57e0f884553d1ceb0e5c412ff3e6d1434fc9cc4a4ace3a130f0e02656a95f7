@@ -1,0 +1,23 @@
+I"l<ul>
+  <li>The Nightingale ( <a href="/assets/Kristin_Hannah_-_The_Nightingale.pdf">pdf link</a> )</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Syntax</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Header</td>
+      <td>Title</td>
+    </tr>
+    <tr>
+      <td>Paragraph</td>
+      <td>Text</td>
+    </tr>
+  </tbody>
+</table>
+:ET

@@ -1,0 +1,9 @@
+I"+<ul class="task-list">
+  <li>
+    <p>The Nightingale ( <a href="/assets/Kristin_Hannah_-_The_Nightingale.pdf">pdf link</a> )</p>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Write the press release</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Update the website</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Contact the media</li>
+</ul>
+:ET
